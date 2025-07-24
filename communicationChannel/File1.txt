@@ -1,0 +1,4 @@
+Original bits: 0011011011110000101010011
+Extra bit(s) for detecting errors: 1
+Message sent: 00110110111100001010100111
+Message received: 00110110111100001010000111
